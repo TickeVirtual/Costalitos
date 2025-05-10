@@ -174,6 +174,11 @@
                     .estado-deuda {
                       font-size: 4mm !important;
                     }
+                      .nro_boleta_id {
+                      font-size: 8.5mm !important;
+                      font-weight: bold !important;
+                    }
+
 
                     .info {
                       font-size: 1.6mm;
