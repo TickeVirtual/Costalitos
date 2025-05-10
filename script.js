@@ -223,7 +223,7 @@
                       "mediatype": "image",
                       "mimetype": "image/png",
                       "caption":captionMessage,
-                      "media": "https://iili.io/2aLNHDg.png",
+                      "media": "https://iili.io/3kJ27FS.png",
                       "fileName": "Imagem.png",
                       "delay": 1200,
                       "quoted": {
